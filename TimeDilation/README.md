@@ -1,3 +1,12 @@
+  This code plots the total time dilation of a clock relative to a ground clock,
+  as a function of their relative velocity and radii. 
+  This total dilation is the product of kinetic and potential dilation.
+  The ISS and a GPS satellite are plotted for reference.
+  Additionally, the line of zero dilation (relative to ground clock),
+  and the line of escape velocity are also plotted for analysis.
+  It is seen that the ground-level escape velocity (purely kinetic) exactly matches
+  the asymptote for zero dilation, establishing conversion to purely potential.
+
 How to interpret:
 
 For example, we see that the GPS reads ~ + 38 microsecond dilation per day.
