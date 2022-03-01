@@ -9,7 +9,7 @@
 
 How to interpret:
 
-For example, we see that the GPS reads ~ + 38 microsecond dilation per day.
+For example, we see that the GPS reads ~ +38 microsecond dilation per day.
 This means that, relative to us, its clocks are 38 microseconds ahead (older).
 
 Likewise we see that the ISS reads ~ -26 microsecond dilation per day.
