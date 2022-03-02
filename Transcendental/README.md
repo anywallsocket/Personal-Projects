@@ -1,3 +1,3 @@
 ### Programs for mapping numerical digits to 2d walks
 
-![example](base10ex.gif)
+![](base10ex.gif)
