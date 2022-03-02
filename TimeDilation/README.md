@@ -20,3 +20,5 @@ The GPS is much farther out of the Earth's gravity well, so its clocks are not s
 The ISS is deep in Earth's gravity well just like us, so its velocity slows its clocks even more than ours.
 
 Therefore the z-axis can be interpreted as microseconds faster (positive) and microseconds slower (negative).
+
+![example plot](dilation.png)
