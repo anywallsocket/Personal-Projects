@@ -21,6 +21,4 @@ The ISS is deep in Earth's gravity well just like us, so its velocity slows its 
 
 Therefore the z-axis can be interpreted as microseconds faster (positive) and microseconds slower (negative).
 
-<img src="dilation.png" alt="example" width="200"/>
-
-![example plot](dilation.png)
+<img src="dilation.png" alt="example" width="500"/>
