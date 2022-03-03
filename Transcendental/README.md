@@ -2,8 +2,8 @@
 
 The jupyter notebook explores the basic idea using transcendental numbers:
   map the digits of a number like pi, 31415... to directions, e.g., 3=up, 1=left, etc.
-  This is done by dviding 180 or 360 degrees into the appropriate base, however you want.
-  Regardless, consistent patters emerge, unique to the transcendental number and its base.
+  This is done by dividing 180 or 360 degrees into the appropriate base, however you want.
+  Regardless, consistent patterns emerge, unique to the transcendental number and its base.
   
 The python program takes this a step further, mapping 1/p, where p is a prime.
   The prime reciprocals are repeating decimals with different periods of repetition.
