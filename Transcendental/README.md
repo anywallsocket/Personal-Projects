@@ -1,4 +1,4 @@
-### Programs for mapping numerical digits to 2d walks
+## Programs for mapping numerical digits to 2d walks
 
 The jupyter notebook explores the basic idea using transcendental numbers:
   map the digits of a number like pi, 31415... to directions, e.g., 3=up, 1=left, etc.
