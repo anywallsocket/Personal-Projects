@@ -1,5 +1,5 @@
 
-# Python Jupyter Notebook implementation simulating Bertrand's famous paradox
+# Jupyter Notebook implementation simulating Bertrand's famous paradox
 
 ## Method 1 - $P(chord>edge) ~ 1/3$
 ![](M1.png)
