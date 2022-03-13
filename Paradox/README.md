@@ -19,4 +19,4 @@
 > This is the definition of a circle, so it should not be surprising.
 > Indeed, if the probability was of a line through a square instead, (x,y) would minimize bias.
 
-#### The 'solution' to Bertrand's paradox then is to realize there is no 'correct' method.
+### The 'solution' to Bertrand's paradox then is to realize there is no 'correct' method.
