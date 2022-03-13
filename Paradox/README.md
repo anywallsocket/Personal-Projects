@@ -6,8 +6,8 @@
 <br>
 
 ## Method 2
-![](M1.png)
+![](M2.png)
 <br>
 
 ## Method 3
-![](M1.png)
+![](M3.png)
