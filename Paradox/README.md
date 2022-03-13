@@ -1,5 +1,5 @@
 
-# Jupyter implementation simulating Bertrand's famous paradox
+# Python implementation simulating Bertrand's famous paradox
 
 ## Method 1
 ![](M1.png)
