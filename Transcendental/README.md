@@ -9,7 +9,7 @@ The python program takes this a step further, mapping 1/p, where p is a prime.
   The prime reciprocals are repeating decimals with different periods of repetition.
   Depending on 1/p and its base, you often get star-like patterns as exemplified below.
   
-![](10black.gif#gh-dark-mode-only)
-![](10white.gif#gh-light-mode-only)
+![](10black.gif#gh-light-mode-only)
+![](10white.gif#gh-dark-mode-only)
 
 This is (as far as I know) an unexplored domain, ripe for those interested.
