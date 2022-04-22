@@ -6,5 +6,6 @@
 
 #### This Python interpretation has many adjustable and explorable possibilites.
 
-Note that these fractals are of the non-differentiable kind, at least in their limit, not of the self-symmetric kind.
-This is ultimately a result of the non-linearity of the given system. Not much is known about these connections.
+Note that these fractals are of the non-differentiable kind, at least in their limit. <br>
+That is to say they are not necessarily self-simmilar as is colloquially attributed to the fractal.
+Ultimately, this a result of the non-linearity of the given system. Not much is known about these connections.
