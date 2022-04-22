@@ -4,7 +4,7 @@
 
 In the video, a pendulum is dangled above 3 equidistant attractors (magnetic), <br>
 and when let go from a point, the pendulum wiggles about before inevitably converging onto one of the 3 attractors. <br>
-Which attractor the pendulum will converge upon, given initial position $(x_i, y_i)$, is realistically intractable. <br>
+Which attractor the pendulum will converge upon, given initial position (x,y) is realistically intractable. <br>
 This intractability is consequent to the inherent non-linearity, and subsequently the trajectories are chaotic. <br>
 
 ![](secondary.png)
