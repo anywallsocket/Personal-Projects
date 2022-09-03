@@ -1,4 +1,6 @@
-  This code plots the total time dilation of a clock relative to a ground clock,
+![](timedilation.gif)
+
+This code plots the total time dilation of a clock relative to a ground clock,
   as a function of their relative velocity and radii. 
   This total dilation is the product of kinetic and potential dilation.
   The ISS and a GPS satellite are plotted for reference.
