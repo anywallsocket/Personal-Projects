@@ -1,4 +1,4 @@
-![](timedilation.gif)
+![](time.gif)
 
 This code plots the total time dilation of a clock relative to a ground clock,
   as a function of their relative velocity and radii. 
