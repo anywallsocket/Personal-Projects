@@ -1,2 +1,2 @@
 # Code
-Stuff and things
+Various investigations, all for fun!
