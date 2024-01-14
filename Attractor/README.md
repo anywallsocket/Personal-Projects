@@ -14,13 +14,13 @@ There we explore the basic 2-variabled coupled equations, its implications, and 
 
 Using AnyLogic, we can implement the same dynamics as above. The  Lotka-Volterra equations are achieved easily in AnyLogic, using similar logic as in Part1, however for more fun I've demonstrated this mechanic with the Lorentz equations instead.
 
-<img src="../images/any2.png" width="300">
+<img src="any2.png" width="300">
 
 Here we have $x, y, z$ as $u, v, w$ respecively. These variables are encoded in 'Stacks' like before, but now we feed in parameter values $\rho, \beta, \sigma$ for the Lorentz constants $28, 10, \frac{8}{3}$ respectively.
 
 Comparison to Python solutions can now be made easily.
 
-<img src="../images/any3.png" width="500">
+<img src="any3.png" width="500">
 
 a) shows the Python interpretation, and b) the AnyLogic.
 
