@@ -6,7 +6,7 @@ Here we explore the so-called 'Preditor-Prey' equations.
 
 For a thorough examination, see the associated jupyter notebook.
 
-[Part2.ipynb](Part2.ipynb)
+[jupyter notebook](part1.ipynb)
 
 There we explore the basic 2-variabled coupled equations, its implications, and also look at 3-variabled Lorentz system. Note that this notebook relies on random numbers, and so will be different each run.
 
