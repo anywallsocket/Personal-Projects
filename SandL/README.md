@@ -13,4 +13,6 @@ The following features are implemented:
 
 Thereafter, mild analysis is provided.
 
-### Notebooks part1 and part2 explore more thoroughly this development
+----------
+
+Notebooks part1 and part2 explore more thoroughly this development
