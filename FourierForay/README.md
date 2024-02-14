@@ -1,6 +1,9 @@
 ### Here we explore the Fourier Transform
 (as inspired by 3B1B: https://www.3blue1brown.com/lessons/fourier-transforms)
 
+## As this is *interactive* one needs to run the notebook live, or see the colab: <br> 
+https://colab.research.google.com/drive/1noGd81q0NLOZPOUWMhcoBK5iUUAHkOvY?usp=sharing
+
 First we build a waveform, here it is done with two sine waves of two different frequencies
 
 $f(t)=sin(2\pi tf_1)+sin(2\pi tf_2)$
