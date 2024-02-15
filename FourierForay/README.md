@@ -21,8 +21,8 @@ We can then extract the real and imaginary components form $FT$
 * These correspond to the even and odd (cos and sin) eigenstates
 
 
-<img src="g2.gif" width="100%">
-<img src="g3.gif" width="100%">
+<img src="f2.gif" width="100%">
+<img src="f3.gif" width="100%">
 
 
 //END
