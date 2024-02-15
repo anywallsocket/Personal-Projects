@@ -14,7 +14,7 @@ Then we define a frequency range with which to calculate the $FT$, here Hz
 
 $F(f)=\int{f(t)e^{i2\pi ft} dt}$
 
-* note that the code taks the mean for visualization, whereas the true $FT$ does not
+* note that the code takes the mean for visualization, whereas the true $FT$ does not
 
 We can then extract the real and imaginary components form $FT$
 
