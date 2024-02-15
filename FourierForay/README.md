@@ -23,5 +23,5 @@ We can then extract the real and imaginary components form $FT$
 ![](g2.gif)
 
 
-![](g2.gif)
+![](g3.gif)
 //END
