@@ -8,7 +8,7 @@ The following features are implemented:
 * S snakes, and L ladders
 * snakes and ladders cannot share starting points
 * snakes and ladders can share ending points
-* Adjacency and Transition matricicies generation
+* Adjacency and Transition matrices generation
 * Plots for visualizing the boardgame
 
 Thereafter, mild analysis is provided.
