@@ -12,7 +12,7 @@ Where $f_1$ and $f_2$ correspond to hz1 and hz2
 
 Then we define a frequency range with which to calculate the $FT$, here Hz
 
-$F(f)=\int{f(t)e^{i2\pi ft} dt}$
+$F(f)=\int_{0}^{10}{f(t)e^{i2\pi ft} dt}$
 
 * note that the code takes the mean for visualization, whereas the true $FT$ does not
 
