@@ -24,8 +24,5 @@ We can then extract the real and imaginary components form $FT$
 <img src="g2.gif" width="70%">
 <img src="g3.gif" width="70%">
 
-![](g2.gif)
 
-
-![](g3.gif)
 //END
