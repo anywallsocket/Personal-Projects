@@ -20,4 +20,4 @@ We can then extract the real and imaginary components form $FT$
 
 * These correspond to the even and odd (cos and sin) eigenstates
 
-[](g2.gif)
+![](g2.gif)
